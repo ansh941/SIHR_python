@@ -3,7 +3,7 @@ This repository is changing [SIHR](https://github.com/vitorsr/SIHR) codes MATLAB
 
 At this moment, I implement Akashi2016 algorithm using numpy and jax.
 
-There is much faster than original.
+This implementation is much faster than original.
 
 The other algorithms are coming soon.
 
@@ -16,7 +16,7 @@ Because Akashi algorithm has random variables in code, so each implementation ha
 
 |Year| Method             |       Original        |         Numpy         |           Jax         |
 |:--:|--------------------|:---------------------:|:---------------------:|:---------------------:|
-|2016| Akashi and Okatani |    TBD   |    0.2727/iter   |    0.015/iter   | 
+|2016| Akashi and Okatani |    0.7714 / it   |    0.2727 / it   |    0.015 / it   | 
 ---
 
 
