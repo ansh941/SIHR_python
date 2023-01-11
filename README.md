@@ -11,8 +11,8 @@ The other algorithms are coming soon.
 # Comparison
 
 The table below is the time of each model to process 1820x1024x3 size single image.</br>
-And I marked time per iteration for fair comparison in table.</br>
-Because Akashi algorithm has random variables in code, so each implementation has different iterations.
+And I marked sec per iteration for fair comparison in table.</br>
+Because Akashi algorithm has random variables in code, so each execution has different iterations.
 
 |Year| Method             |       Original        |         Numpy         |           Jax         |
 |:--:|--------------------|:---------------------:|:---------------------:|:---------------------:|
