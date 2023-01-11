@@ -22,7 +22,7 @@ Because Akashi algorithm has random variables in code, so each execution has dif
 
 
 # Acknowledgement
-This repository is largely based on the SIHR repository by vitorsr.
+This repository is largely based on the [SIHR](https://github.com/vitorsr/SIHR) repository by vitorsr.
 
 
 
