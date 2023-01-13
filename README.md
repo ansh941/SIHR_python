@@ -28,3 +28,6 @@ This repository is largely based on the [SIHR](https://github.com/vitorsr/SIHR) 
 
 # Reference
 Y. Akashi and T. Okatani, “Separation of reflection components by sparse non-negative matrix factorization,” Computer Vision and Image Understanding, vol. 146, pp. 77–85, May 2016, http://dx.doi.org/10.1016/j.cviu.2015.09.001
+
+### Keywords
+Highlight removal, diffuse, specular
